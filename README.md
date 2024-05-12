@@ -1,4 +1,4 @@
-# Design Portfolio
+# Designs/works
 
 Welcome to designs/works repository! Here you can find a collection of some of my recent design works.
 
